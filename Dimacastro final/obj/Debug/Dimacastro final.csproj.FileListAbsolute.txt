@@ -1,0 +1,378 @@
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\obj\Debug\Dimacastro final.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\obj\Debug\Dimacastro final.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Dimacastro final.dll.config
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Dimacastro final.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Dimacastro final.pdb
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\csc.exe
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\csc.exe.config
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\csc.rsp
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\csi.exe
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\csi.exe.config
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\csi.rsp
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.AppContext.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Console.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Net.Http.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\vbc.exe
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\vbc.exe.config
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\vbc.rsp
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Web.Optimization.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\WebGrease.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Web.Optimization.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\obj\Debug\Dimacastro final.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\obj\Debug\Dimacastro final.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\obj\Debug\Dimacastro final.pdb
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\BouncyCastle.Crypto.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Google.Protobuf.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\K4os.Compression.LZ4.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\K4os.Hash.xxHash.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\MySql.Data.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Renci.SshNet.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Buffers.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Memory.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Numerics.Vectors.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Ubiety.Dns.Core.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Zstandard.Net.dll
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Google.Protobuf.pdb
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Google.Protobuf.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\K4os.Compression.LZ4.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\K4os.Hash.xxHash.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\MySql.Data.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\Renci.SshNet.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Buffers.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Memory.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Numerics.Vectors.xml
+C:\Users\Lucas\source\repos\Dimacastro final\Dimacastro final\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Dimacastro final.dll.config
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Dimacastro final.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Dimacastro final.pdb
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\csc.exe
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\csc.exe.config
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\csc.rsp
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\csi.exe
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\csi.exe.config
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\csi.rsp
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.AppContext.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Console.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Net.Http.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\vbc.exe
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\vbc.exe.config
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\vbc.rsp
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\BouncyCastle.Crypto.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Google.Protobuf.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\K4os.Compression.LZ4.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\K4os.Hash.xxHash.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\MySql.Data.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Renci.SshNet.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Buffers.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Memory.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Numerics.Vectors.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Web.Optimization.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Ubiety.Dns.Core.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\WebGrease.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Zstandard.Net.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Google.Protobuf.pdb
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Google.Protobuf.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\K4os.Compression.LZ4.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\K4os.Hash.xxHash.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\MySql.Data.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Renci.SshNet.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Buffers.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Memory.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Numerics.Vectors.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\System.Web.Optimization.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.dll
+C:\Users\Lucas\source\repos\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.pdb
+E:\Dimacastro\Dimacastro final\bin\Dimacastro final.dll.config
+E:\Dimacastro\Dimacastro final\bin\Dimacastro final.dll
+E:\Dimacastro\Dimacastro final\bin\Dimacastro final.pdb
+E:\Dimacastro\Dimacastro final\bin\roslyn\csc.exe
+E:\Dimacastro\Dimacastro final\bin\roslyn\csc.exe.config
+E:\Dimacastro\Dimacastro final\bin\roslyn\csc.rsp
+E:\Dimacastro\Dimacastro final\bin\roslyn\csi.exe
+E:\Dimacastro\Dimacastro final\bin\roslyn\csi.exe.config
+E:\Dimacastro\Dimacastro final\bin\roslyn\csi.rsp
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dimacastro\Dimacastro final\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.AppContext.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Collections.Immutable.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Console.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Globalization.Calendars.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.IO.Compression.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.IO.FileSystem.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Net.Http.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Net.Sockets.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.ValueTuple.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Xml.XPath.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Dimacastro\Dimacastro final\bin\roslyn\vbc.exe
+E:\Dimacastro\Dimacastro final\bin\roslyn\vbc.exe.config
+E:\Dimacastro\Dimacastro final\bin\roslyn\vbc.rsp
+E:\Dimacastro\Dimacastro final\bin\roslyn\VBCSCompiler.exe
+E:\Dimacastro\Dimacastro final\bin\roslyn\VBCSCompiler.exe.config
+E:\Dimacastro\Dimacastro final\bin\Antlr3.Runtime.dll
+E:\Dimacastro\Dimacastro final\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Dimacastro\Dimacastro final\bin\AspNet.ScriptManager.jQuery.dll
+E:\Dimacastro\Dimacastro final\bin\BouncyCastle.Crypto.dll
+E:\Dimacastro\Dimacastro final\bin\Google.Protobuf.dll
+E:\Dimacastro\Dimacastro final\bin\K4os.Compression.LZ4.dll
+E:\Dimacastro\Dimacastro final\bin\K4os.Compression.LZ4.Streams.dll
+E:\Dimacastro\Dimacastro final\bin\K4os.Hash.xxHash.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Web.Infrastructure.dll
+E:\Dimacastro\Dimacastro final\bin\MySql.Data.dll
+E:\Dimacastro\Dimacastro final\bin\Newtonsoft.Json.dll
+E:\Dimacastro\Dimacastro final\bin\Renci.SshNet.dll
+E:\Dimacastro\Dimacastro final\bin\System.Buffers.dll
+E:\Dimacastro\Dimacastro final\bin\System.Memory.dll
+E:\Dimacastro\Dimacastro final\bin\System.Numerics.Vectors.dll
+E:\Dimacastro\Dimacastro final\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Dimacastro\Dimacastro final\bin\System.Web.Optimization.dll
+E:\Dimacastro\Dimacastro final\bin\Ubiety.Dns.Core.dll
+E:\Dimacastro\Dimacastro final\bin\WebGrease.dll
+E:\Dimacastro\Dimacastro final\bin\Zstandard.Net.dll
+E:\Dimacastro\Dimacastro final\bin\Google.Protobuf.pdb
+E:\Dimacastro\Dimacastro final\bin\Google.Protobuf.xml
+E:\Dimacastro\Dimacastro final\bin\K4os.Compression.LZ4.xml
+E:\Dimacastro\Dimacastro final\bin\K4os.Compression.LZ4.Streams.xml
+E:\Dimacastro\Dimacastro final\bin\K4os.Hash.xxHash.xml
+E:\Dimacastro\Dimacastro final\bin\MySql.Data.xml
+E:\Dimacastro\Dimacastro final\bin\Renci.SshNet.xml
+E:\Dimacastro\Dimacastro final\bin\System.Buffers.xml
+E:\Dimacastro\Dimacastro final\bin\System.Memory.xml
+E:\Dimacastro\Dimacastro final\bin\System.Numerics.Vectors.xml
+E:\Dimacastro\Dimacastro final\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Dimacastro\Dimacastro final\bin\System.Web.Optimization.xml
+E:\Dimacastro\Dimacastro final\bin\Newtonsoft.Json.xml
+E:\Dimacastro\Dimacastro final\bin\Antlr3.Runtime.pdb
+E:\Dimacastro\Dimacastro final\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Dimacastro\Dimacastro final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.csprojAssemblyReference.cache
+E:\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.csproj.CoreCompileInputs.cache
+E:\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.csproj.CopyComplete
+E:\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.dll
+E:\Dimacastro\Dimacastro final\obj\Debug\Dimacastro final.pdb
+E:\Dimacastro\Dimacastro final\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Dimacastro\Dimacastro final\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Dimacastro\Dimacastro final\bin\amd64\sqlceca40.dll
+E:\Dimacastro\Dimacastro final\bin\amd64\sqlcecompact40.dll
+E:\Dimacastro\Dimacastro final\bin\amd64\sqlceer40EN.dll
+E:\Dimacastro\Dimacastro final\bin\amd64\sqlceme40.dll
+E:\Dimacastro\Dimacastro final\bin\amd64\sqlceqp40.dll
+E:\Dimacastro\Dimacastro final\bin\amd64\sqlcese40.dll
+E:\Dimacastro\Dimacastro final\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Dimacastro\Dimacastro final\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Dimacastro\Dimacastro final\bin\x86\sqlceca40.dll
+E:\Dimacastro\Dimacastro final\bin\x86\sqlcecompact40.dll
+E:\Dimacastro\Dimacastro final\bin\x86\sqlceer40EN.dll
+E:\Dimacastro\Dimacastro final\bin\x86\sqlceme40.dll
+E:\Dimacastro\Dimacastro final\bin\x86\sqlceqp40.dll
+E:\Dimacastro\Dimacastro final\bin\x86\sqlcese40.dll
+E:\Dimacastro\Dimacastro final\bin\LightInject.Annotation.dll
+E:\Dimacastro\Dimacastro final\bin\LightInject.dll
+E:\Dimacastro\Dimacastro final\bin\LightInject.Web.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Owin.Cors.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Owin.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Owin.Security.dll
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dimacastro\Dimacastro final\bin\MiniProfiler.dll
+E:\Dimacastro\Dimacastro final\bin\MiniProfiler.Shared.dll
+E:\Dimacastro\Dimacastro final\bin\NPoco.dll
+E:\Dimacastro\Dimacastro final\bin\Owin.dll
+E:\Dimacastro\Dimacastro final\bin\Semver.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.Enrichers.Process.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.Enrichers.Thread.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.Filters.Expressions.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.Formatting.Compact.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.Formatting.Compact.Reader.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.Settings.AppSettings.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.Sinks.Async.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.Sinks.File.dll
+E:\Dimacastro\Dimacastro final\bin\Serilog.Sinks.Map.dll
+E:\Dimacastro\Dimacastro final\bin\Superpower.dll
+E:\Dimacastro\Dimacastro final\bin\System.Data.SqlServerCe.dll
+E:\Dimacastro\Dimacastro final\bin\System.Data.SqlServerCe.Entity.dll
+E:\Dimacastro\Dimacastro final\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Dimacastro\Dimacastro final\bin\System.Net.Http.Formatting.dll
+E:\Dimacastro\Dimacastro final\bin\System.ValueTuple.dll
+E:\Dimacastro\Dimacastro final\bin\System.Web.Cors.dll
+E:\Dimacastro\Dimacastro final\bin\System.Web.Http.dll
+E:\Dimacastro\Dimacastro final\bin\System.Web.Http.WebHost.dll
+E:\Dimacastro\Dimacastro final\bin\Umbraco.Core.dll
+E:\Dimacastro\Dimacastro final\bin\LightInject.pdb
+E:\Dimacastro\Dimacastro final\bin\LightInject.xml
+E:\Dimacastro\Dimacastro final\bin\LightInject.Annotation.pdb
+E:\Dimacastro\Dimacastro final\bin\LightInject.Web.pdb
+E:\Dimacastro\Dimacastro final\bin\LightInject.Web.xml
+E:\Dimacastro\Dimacastro final\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Owin.xml
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Owin.Cors.xml
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Owin.Security.xml
+E:\Dimacastro\Dimacastro final\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dimacastro\Dimacastro final\bin\MiniProfiler.xml
+E:\Dimacastro\Dimacastro final\bin\MiniProfiler.Shared.xml
+E:\Dimacastro\Dimacastro final\bin\Semver.xml
+E:\Dimacastro\Dimacastro final\bin\Serilog.pdb
+E:\Dimacastro\Dimacastro final\bin\Serilog.xml
+E:\Dimacastro\Dimacastro final\bin\Serilog.Enrichers.Thread.xml
+E:\Dimacastro\Dimacastro final\bin\Serilog.Filters.Expressions.xml
+E:\Dimacastro\Dimacastro final\bin\Serilog.Formatting.Compact.xml
+E:\Dimacastro\Dimacastro final\bin\Serilog.Formatting.Compact.Reader.xml
+E:\Dimacastro\Dimacastro final\bin\Serilog.Sinks.Async.xml
+E:\Dimacastro\Dimacastro final\bin\Serilog.Sinks.File.xml
+E:\Dimacastro\Dimacastro final\bin\Serilog.Sinks.Map.xml
+E:\Dimacastro\Dimacastro final\bin\Superpower.xml
+E:\Dimacastro\Dimacastro final\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Dimacastro\Dimacastro final\bin\System.Net.Http.Formatting.xml
+E:\Dimacastro\Dimacastro final\bin\System.ValueTuple.xml
+E:\Dimacastro\Dimacastro final\bin\System.Web.Http.xml
+E:\Dimacastro\Dimacastro final\bin\System.Web.Http.WebHost.xml
+E:\Dimacastro\Dimacastro final\bin\Umbraco.Core.pdb
+E:\Dimacastro\Dimacastro final\bin\Umbraco.Core.xml
+E:\Dimacastro\Dimacastro final\bin\pt-br\System.Net.Http.Formatting.resources.dll
+E:\Dimacastro\Dimacastro final\bin\pt-br\System.Web.Http.resources.dll
+E:\Dimacastro\Dimacastro final\bin\pt-br\System.Web.Http.WebHost.resources.dll
